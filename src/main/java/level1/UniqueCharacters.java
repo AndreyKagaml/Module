@@ -2,7 +2,7 @@ package level1;
 
 public class UniqueCharacters {
 
-    public int[] ArrayOfCharacters = {1, 4, 5, 1, 1, 3, 6, 7, 10, 5, 4};
+    public static int[] ArrayOfCharacters = {1, 4, 5, 1, 1, 3};
 
     public int AmountOfUniqueCharacters( int[] ArrayOfCharacters){
         int score = 0;
